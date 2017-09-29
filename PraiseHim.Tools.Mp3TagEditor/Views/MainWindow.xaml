@@ -8,10 +8,11 @@
     xmlns:extension="clr-namespace:PraiseHim.Tools.Mp3TagEditor.Extensions"
     xmlns:local="clr-namespace:PraiseHim.Tools.Mp3TagEditor"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-    Title="MainWindow"
+    Title="Mp3 Tag Editor"
     Width="525"
     Height="350"
     DataContext="{Binding MainViewModel, Source={StaticResource Locator}}"
+    GlowBrush="LightGray"
     WindowStartupLocation="CenterScreen"
     mc:Ignorable="d">
     <MahApps:MetroWindow.RightWindowCommands>
