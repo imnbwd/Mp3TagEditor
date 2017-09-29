@@ -21,5 +21,4 @@
             <vm:ViewModelLocator x:Key="Locator" />
         </ResourceDictionary>
     </Application.Resources>
-
 </Application>
